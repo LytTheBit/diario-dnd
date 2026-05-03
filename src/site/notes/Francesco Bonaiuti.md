@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Francesco Bonaiuti/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Francesco Bonaiuti/","noteIcon":"","dg-note-properties":{}}
 ---
 
 Hey, sono io!
