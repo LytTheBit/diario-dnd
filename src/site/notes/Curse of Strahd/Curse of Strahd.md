@@ -8,6 +8,8 @@ Campagna creata da Lorenzo Grassi seguendo il manuale di Curse of strahd.
 # Plot
 Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] per poter fuggire dal [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]]
 
+[[Curse of Strahd/Informazioni/Missioni in corso\|Missioni in corso]]
+
 # Sessioni
 - [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 1\|Strahd sessione 1]]
 - [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 2\|Strahd sessione 2]]

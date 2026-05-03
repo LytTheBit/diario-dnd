@@ -12,7 +12,7 @@ Ci facciamo accompagnare da [[Curse of Strahd/Personaggi/NPC/Alleati/Vasili Von 
 
 Abbiamo sconfitti i druidi, e i loro minion. E abbiamo cosi salvato [[Curse of Strahd/Personaggi/NPC/Alleati/Davian Martikov\|Davian Martikov]]. Abbiamo anche trovato una [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Gulthias Staff\|staffa]]
 
-Ci hanno spiegato che le tre gemme delle [[Curse of Strahd/Informazioni/Organizzazioni/Driadi\|Driadi]] sono situate in 3 luoghi;
+Ci hanno spiegato che le tre gemme delle [[Curse of Strahd/Informazioni/Organizzazioni/Fane\|Fane]] sono situate in 3 luoghi;
 - Dietro al mulino ([[Curse of Strahd/Informazioni/Organizzazioni/Megere (Strhad)\|Megere (Strhad)]]) 
 - [[Curse of Strahd/Mondo/Luoghi/Yester hill\|Yester hill]] ([[Curse of Strahd/Informazioni/Organizzazioni/Druidi del Sangue\|Druidi del Sangue]]) dove si dovrebbe trovare anche un albero chiamato [[Curse of Strahd/Wintersplinter\|Wintersplinter]]. Hanno anche rapito due corvidi [[Corvo madre\|Corvo madre]] e [[Corvo figlio\|Corvo figlio]].
 - Palude ([[Curse of Strahd/Personaggi/NPC/Nemici/Baba Lasyga\|Baba Lasyga]])
