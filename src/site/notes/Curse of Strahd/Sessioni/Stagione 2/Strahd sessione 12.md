@@ -4,13 +4,13 @@
 
 **Precedente:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 11\|Strahd sessione 11]]
 
-Riaccompagnammo [[Curse of Strahd/Personaggi/NPC/Arabelle\|Arabelle]] al [[villaggio dei Vistani\|villaggio dei Vistani]]. dove incontriamo il capo del villaggio ([[Luvash\|padre]] di [[Curse of Strahd/Personaggi/NPC/Arabelle\|Arabelle]]) e suo [[Arrigal\|fratello minore]], mentre stanno torturando degli uomini.
+Riaccompagnammo [[Curse of Strahd/Personaggi/NPC/Arabelle\|Arabelle]] al [[villaggio dei Vistani\|villaggio dei Vistani]]. dove incontriamo il capo del villaggio ([[Curse of Strahd/Personaggi/NPC/Luvash\|padre]] di [[Curse of Strahd/Personaggi/NPC/Arabelle\|Arabelle]]) e suo [[Curse of Strahd/Personaggi/NPC/Arrigal\|fratello minore]], mentre stanno torturando degli uomini.
 
 Ci ringraziano facendoci scegliere un regalo da una cesta.
 `Scelto a sorte da un tiro di dadi dal DM`
 Otteniamo un [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Pietra del Golem di Pietra\|sasso]] capace di evocare un Golem di Pietra
 
-Andiamo poi da un elfo, che vive nel [[villaggio dei Vistani\|villaggio dei Vistani]] tale [[Kasimir Velikov\|Kasimir Velikov]] per farci raccontare del [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]] prima del arrivo di [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] e della [[Curse of Strahd/Informazioni/Lore/Nebbia\|Nebbia]].
+Andiamo poi da un elfo, che vive nel [[villaggio dei Vistani\|villaggio dei Vistani]] tale [[Curse of Strahd/Personaggi/NPC/Kasimir Velikov\|Kasimir Velikov]] per farci raccontare del [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]] prima del arrivo di [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] e della [[Curse of Strahd/Informazioni/Lore/Nebbia\|Nebbia]].
 
 Ci racconta che:
 

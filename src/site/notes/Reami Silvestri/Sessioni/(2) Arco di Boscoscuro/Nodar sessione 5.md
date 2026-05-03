@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/Reami Silvestri/Sessioni/(2) Arco di Boscoscuro/Nodar sessione 5/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"Copertina Reami Silvestri.png","tags":["Sessione"]}}
+---
+
+
+
+**Precedente:** [[Reami Silvestri/Sessioni/(2) Arco di Boscoscuro/Nodar sessione 4\|Nodar sessione 4]]
+
+La sessione inizia con [[Reami Silvestri/Personaggi/Party/Minimoto\|Minimoto]] nella [[Reami Silvestri/Mondo/Luoghi/Magione di Valisk\|Magione di Valisk]] chiuso nella sua stanza. Poco dopo arrivano [[Reami Silvestri/Personaggi/NPC/Nemici/Valisk\|Valisk]] che annuncia al topo che quella sera avrebbe dovuto combattere un nuovo scontro, e li regala una nuova katana, fatta con il dente del lupo bianco, katane che [[Reami Silvestri/Personaggi/Party/Minimoto\|Minimoto]] rinomina *la [[Reami Silvestri/Informazioni/Oggetti/Oggetti magici/Dente di lupo\|Dente di lupo]]*. Appena rimasto da solo il piccolo samurai chiama il cameriere ([[Reami Silvestri/Personaggi/NPC/Lucius\|Lucius]]) e li chiede di fare un ordinazione per lui in una locanda di cui dice *"ha sentito parlare tanto bene"*. Manda quindi una lettera alla [[Reami Silvestri/Mondo/Luoghi/Taverna del tronco spezzato\|Taverna del tronco spezzato]] contenente una mappa della villa disegnata da lui. 
+
+In tanto [[Reami Silvestri/Personaggi/Party/Ashtar\|Ashtar]] e [[Reami Silvestri/Personaggi/Party/Singrid\|Singrid]] discutono sul da farsi alla taverna. Chiedono ai membri della [[Reami Silvestri/Informazioni/Organizzazioni/Resistenza\|Resistenza]] quando intendono attaccare, ma loro sono dubbiosi e non sono ancora ben convinti su cosa fare. In quel momento però arriva la lettera scritta da [[Reami Silvestri/Personaggi/Party/Minimoto\|Minimoto]]. Vista la lettera  [[Reami Silvestri/Personaggi/Party/Ashtar\|Ashtar]] e [[Reami Silvestri/Personaggi/Party/Singrid\|Singrid]] decidono di andare a salvare il topolino accompagnati da [[Reami Silvestri/Personaggi/NPC/Alleati/Silas\|Silas]].
+Quando il gruppo arriva alla [[Reami Silvestri/Mondo/Luoghi/Magione di Valisk\|Magione di Valisk]] uccidono la guardia al entrata ed riescono ad entrare di soppiatto... solo per essere scoperti subito dopo. Scatta l'allarme e il gruppo uccide le guardie in zona. La confusione sveglia [[Reami Silvestri/Personaggi/Party/Minimoto\|Minimoto]], che fugge dalla sua camera uccidendo [[Reami Silvestri/Personaggi/NPC/Lucius\|Lucius]]. Quando il gruppo si riunisce però non c'è tempo e fuggono dalla magione, solo per essere bloccati al uscita da [[Reami Silvestri/Personaggi/NPC/Nemici/Valisk\|Valisk]] accompagnato dalle sue guardie
+
+Abbiamo quindi ucciso [[Reami Silvestri/Personaggi/NPC/Nemici/Valisk\|Valisk]] e le guardie che lo accompagnavano (anche se siamo quasi rimasti uccisi nello scontro), [[Reami Silvestri/Personaggi/Party/Ashtar\|Ashtar]] ha rubato un pò di roba dal cadavere del nobile: Un [[Reami Silvestri/Informazioni/Oggetti/Oggetti magici/Bastone di Valisk\|Bastone di Valisk]], un [[Reami Silvestri/Informazioni/Oggetti/Oggetti magici/Anello nero\|Anello nero]], un [[Reami Silvestri/Informazioni/Oggetti/Oggetti magici/Mantello di Valisk\|Mantello di Valisk]] e 500mo. 
+Subito dopo siamo subito fuggiti verso la [[Reami Silvestri/Mondo/Luoghi/Taverna del tronco spezzato\|Taverna del tronco spezzato]], dove abbiamo portato il povero [[Reami Silvestri/Personaggi/NPC/Alleati/Silas\|Silas]] che era quasi rimasto ucciso durante lo scontro.
+
+**Continua:** [[Reami Silvestri/Sessioni/(2) Arco di Boscoscuro/Nodar sessione 6\|Nodar sessione 6]]  
