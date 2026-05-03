@@ -6,7 +6,7 @@
 Campagna creata da Lorenzo Grassi seguendo il manuale di Curse of strahd.
 
 # Plot
-Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] per poter fuggire da [[Curse of Strahd/Mondo/Regioni/Revenloft\|Revenloft]]
+Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] per poter fuggire dal [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]]
 
 # Sessioni
 - [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 1\|Strahd sessione 1]]
@@ -19,6 +19,11 @@ Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Stra
 - [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 8\|Strahd sessione 8]]
 - [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 9\|Strahd sessione 9]]
 - [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 10\|Strahd sessione 10]]
+- [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 11\|Strahd sessione 11]]
+- [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 12\|Strahd sessione 12]]
+- [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 13\|Strahd sessione 13]]
+- [[Strahd sessione 14\|Strahd sessione 14]]
+- [[Strahd sessione 15\|Strahd sessione 15]]
 
 # Player
 - [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]] giocato da Francesco Bonaiuti
