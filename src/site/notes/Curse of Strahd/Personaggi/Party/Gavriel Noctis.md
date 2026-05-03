@@ -3,6 +3,6 @@
 ---
 
 Personaggio di Gabriele Attucci nella campagna di [[Curse of Strahd/Curse of Strahd\|Curse of Strahd]]
-è una Drampir chierico, che venera una divinità della luce chiamata [[Ziwa\|Ziwa]]
+è una Drampir chierico, che venera una divinità della luce chiamata [[Curse of Strahd/Informazioni/Lore/Divinità/Ziwa\|Ziwa]]
 è fratello di [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]
 ![Gabriel Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Gabriel%20Noctis.png)
