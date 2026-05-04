@@ -64,6 +64,23 @@ views:
       - file.name
 ```
 
+```base
+filters:
+  and:
+    - file.inFolder("Curse of Strahd/Sessioni")
+views:
+  - type: cards
+    name: "Sessioni - Strahd"
+    image: immagine
+    imageFit: cover
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+```
+
+
 
 # Player
 ```base
