@@ -4,4 +4,4 @@
 
 Recarsi al [[Curse of Strahd/Informazioni/Quest/Tempio della luce\|Tempio della luce]] con [[Curse of Strahd/Personaggi/NPC/Kasimir Velikov\|Kasimir Velikov]]
 
-![quest.jpg](/img/user/quest.jpg)
+![quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg)
