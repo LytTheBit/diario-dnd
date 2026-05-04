@@ -46,7 +46,7 @@ filters:
     - file.inFolder("Curse of Strahd/Sessioni")
 views:
   - type: cards
-    name: "Sessioni - Strahd"
+    name: "Sessioni"
     image: immagine
     imageFit: cover
     order:
