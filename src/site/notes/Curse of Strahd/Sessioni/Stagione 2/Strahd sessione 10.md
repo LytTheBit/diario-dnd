@@ -4,7 +4,7 @@
 
 
 
-**Precedente:** [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 9\|Strahd sessione 9]]
+**Precedente:** [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 09\|Strahd sessione 09]]
 
 Iniziamo la sessione alla [[Curse of Strahd/Mondo/Luoghi/Blue Water\|Blue Water]], a [[Curse of Strahd/Mondo/Città/Vallaki\|Vallaki]]. [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Il Professore]] chiede ad [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Ken]] ad aiutarlo a trasformare [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Socrate\|Socrate]] in un [[Ermes\|cappotto volante]], l'idea piace, ma visto lo scarso tempo disponibile non riescono a farlo funzionare.
 

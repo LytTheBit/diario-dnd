@@ -17,7 +17,6 @@ Campagna creata da Lorenzo Grassi seguendo il manuale di Curse of strahd.
 # Plot
 Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] per poter fuggire dal [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]]
 
-#### Missioni in corso
 ```base
 filters:
   and:
@@ -27,14 +26,13 @@ filters:
       - file.hasTag("completata")
 views:
   - type: cards
-    name: "Quest Attive - Strahd"
+    name: "Quest Attive"
     image: immagine
     imageFit: cover
     order:
       - file.name
 ```
 
-#### Missioni completate
 ```base
 filters:
   and:
@@ -43,7 +41,7 @@ filters:
     - file.hasTag("completata")
 views:
   - type: cards
-    name: "Quest Completate - Strahd"
+    name: "Quest Completate"
     image: immagine
     imageFit: cover
     order:
@@ -63,23 +61,6 @@ views:
     order:
       - file.name
 ```
-
-```base
-filters:
-  and:
-    - file.inFolder("Curse of Strahd/Sessioni")
-views:
-  - type: cards
-    name: "Sessioni - Strahd"
-    image: immagine
-    imageFit: cover
-    order:
-      - file.name
-    sort:
-      - property: file.name
-        direction: ASC
-```
-
 
 
 # Player
