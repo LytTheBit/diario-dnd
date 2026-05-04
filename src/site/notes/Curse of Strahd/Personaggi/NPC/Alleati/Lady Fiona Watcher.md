@@ -3,7 +3,7 @@
 ---
 
 Donna a capo della seconda famiglia nobile più influente a [[Curse of Strahd/Mondo/Città/Vallaki\|Vallaki]]. Ha una [[Curse of Strahd/Personaggi/NPC/Stella Watcher\|figlia]] e un [[Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak\|servitore fedele]].
-Si oppone fermamente alla dittatura del borgomastro [[Curse of Strahd/Personaggi/NPC/Nemici/Baron Vargas Vallakovich\|Baron Vargas Vallakovich]] da quando quest'ultimo e suo figlio [[0-Immagini e altro/Lorenzo/Victor Vallakovich\|Victor Vallakovich]] hanno maledetto sua [[Curse of Strahd/Personaggi/NPC/Stella Watcher\|figlia]] costringendola a comportarsi come un gatto.
+Si oppone fermamente alla dittatura del borgomastro [[Curse of Strahd/Personaggi/NPC/Nemici/Baron Vargas Vallakovich\|Baron Vargas Vallakovich]] da quando quest'ultimo e suo figlio [[Curse of Strahd/Personaggi/NPC/Alleati/Victor Vallakovich\|Victor Vallakovich]] hanno maledetto sua [[Curse of Strahd/Personaggi/NPC/Stella Watcher\|figlia]] costringendola a comportarsi come un gatto.
 
 è vedova ed era sposata con un arcanista.
 

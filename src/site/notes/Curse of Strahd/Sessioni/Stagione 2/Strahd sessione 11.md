@@ -19,6 +19,6 @@ Strahd uccide `E subito dopo resuscita` [[Curse of Strahd/Personaggi/Party/Kenji
 
 Unica nota interessante. [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] ha un immunità ai danni radianti dovuta ad un [[artefatto immunità radianti\|artefatto]].
 
-Scopriamo che [[Curse of Strahd/Personaggi/NPC/Nemici/Izek Strazni\|Izek Strazni]] è un [[Senz'anima\|Senz'anima]].
+Scopriamo che [[Curse of Strahd/Personaggi/NPC/Izek Strazni\|Izek Strazni]] è un [[Senz'anima\|Senz'anima]].
 
 **Continua:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 12\|Strahd sessione 12]]
