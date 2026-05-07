@@ -18,4 +18,4 @@ Dopo aver scoperto che [[Curse of Strahd/Personaggi/NPC/Alleati/Victor Vallakovi
 [[Curse of Strahd/Personaggi/NPC/Izek Strazni\|Izek Strazni]] e [[Curse of Strahd/Personaggi/NPC/Alleati/Victor Vallakovich\|Victor Vallakovich]] sono nel panico, e li convinciamo ad rifugiarsi in [[Curse of Strahd/Mondo/Luoghi/Chiesa di St. Andral\|Chiesa di St. Andral]].
 
 
-**Continua:** [[Strahd sessione 14\|Strahd sessione 14]]
+**Continua:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 14\|Strahd sessione 14]]

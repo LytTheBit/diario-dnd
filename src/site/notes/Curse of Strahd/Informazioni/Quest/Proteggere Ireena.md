@@ -5,5 +5,5 @@
 Proteggere e trovare un posto sicuro per [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena Kolyana]]
 
 ### Note
-- Il fratello di [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena Kolyana]] è [[Curse of Strahd/Personaggi/NPC/Ishmark Indirovich\|Ishmark Indirovich]]
+- Il fratello di [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena Kolyana]] è [[Curse of Strahd/Personaggi/NPC/Ismark Kolyanovich\|Ismark Kolyanovich]]
 - [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] sembra avere un ossessione per lei (li ricorda un vecchio amore?)
