@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Curse of Strahd/Curse of Strahd/","contentClasses":"cards","tags":["Campagna","DnD"],"noteIcon":"","dg-note-properties":{"Sistema":"D&D","Master":"Lorenzo Grassi","Player":["Martina Schirona","Gabriele Attucci","Lorenzo Camuso","Nodar Varazashvili","Francesco Bonaiuti"],"tags":["Campagna","DnD"]}}
 ---
 
-ciao 8
+
+Test num: 9
 
 ---
 |                                                                                                        | Personaggio                                                                              |
