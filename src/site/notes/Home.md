@@ -6,9 +6,24 @@ Benvenuto nel [[Francesco Bonaiuti\|mio]] diario delle campagne di D&D!
 
 
 
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/Curse of Strahd/Curse of Strahd/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
+
+
+
+|                                                                        | Personaggio                                                                              |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Gabriel Noctis.png                                                     | [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]                   |
+| ![0-Immagini e altro/Lorenzo/Kenjiro Nozomi.png\|Kenjiro Nozomi.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Kenjiro%20Nozomi.png) | [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]]                   |
+| Mevis Noctis.png                                                       | [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]                       |
+| Pasted image 20250406173035.png                                        | [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] |
+| Thomas Bertrand.png                                                    | [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]                 |
+| Thomas Bertrand.png                                                    | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
+
+{ .block-language-dataview}
 
 
 ![Pasted image 20250331194452.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250331194452.png)
@@ -20,7 +35,7 @@ Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Stra
 ```base
 filters:
   and:
-    - file.inFolder("Curse of Strahd/Informazioni/Quest")
+    - file.inFolder("Curse of Strahd")
     - file.hasTag("Quest")
     - not:
       - file.hasTag("completata")
@@ -36,7 +51,7 @@ views:
 ```base
 filters:
   and:
-    - file.inFolder("Curse of Strahd/Informazioni/Quest")
+    - file.inFolder("Curse of Strahd")
     - file.hasTag("Quest")
     - file.hasTag("completata")
 views:

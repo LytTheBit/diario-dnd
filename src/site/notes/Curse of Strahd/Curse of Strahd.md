@@ -2,6 +2,19 @@
 {"dg-publish":true,"permalink":"/Curse of Strahd/Curse of Strahd/","tags":["Campagna","DnD"],"noteIcon":"","dg-note-properties":{"Sistema":"D&D","Master":"Lorenzo Grassi","Player":["Martina Schirona","Gabriele Attucci","Lorenzo Camuso","Nodar Varazashvili","Francesco Bonaiuti"],"tags":["Campagna","DnD"]}}
 ---
 
+
+|                                                                        | Personaggio                                                                              |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Gabriel Noctis.png                                                     | [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]                   |
+| ![0-Immagini e altro/Lorenzo/Kenjiro Nozomi.png\|Kenjiro Nozomi.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Kenjiro%20Nozomi.png) | [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]]                   |
+| Mevis Noctis.png                                                       | [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]                       |
+| Pasted image 20250406173035.png                                        | [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] |
+| Thomas Bertrand.png                                                    | [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]                 |
+| Thomas Bertrand.png                                                    | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
+
+{ .block-language-dataview}
+
+
 ![Pasted image 20250331194452.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250331194452.png)
 Campagna creata da Lorenzo Grassi seguendo il manuale di Curse of strahd.
 
@@ -11,7 +24,7 @@ Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Stra
 ```base
 filters:
   and:
-    - file.inFolder("Curse of Strahd/Informazioni/Quest")
+    - file.inFolder("Curse of Strahd")
     - file.hasTag("Quest")
     - not:
       - file.hasTag("completata")
@@ -27,7 +40,7 @@ views:
 ```base
 filters:
   and:
-    - file.inFolder("Curse of Strahd/Informazioni/Quest")
+    - file.inFolder("Curse of Strahd")
     - file.hasTag("Quest")
     - file.hasTag("completata")
 views:
