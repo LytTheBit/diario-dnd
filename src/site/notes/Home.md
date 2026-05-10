@@ -14,22 +14,6 @@ Benvenuto nel [[Francesco Bonaiuti\|mio]] diario delle campagne di D&D!
 
 
 
-Test num: 13
-
----
-|                                                                                                  | Personaggio                                                                              |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| ![0-Immagini e altro/Lorenzo/Gabriel Noctis.png\|Gabriel Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Gabriel%20Noctis.png)                           | [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]                   |
-| ![0-Immagini e altro/Lorenzo/Kenjiro Nozomi.png\|Kenjiro Nozomi.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Kenjiro%20Nozomi.png)                           | [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]]                   |
-| ![0-Immagini e altro/Lorenzo/Mevis Noctis.png\|Mevis Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Mevis%20Noctis.png)                               | [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]                       |
-| ![0-Immagini e altro/Lorenzo/Pasted image 20250406173035.png\|Pasted image 20250406173035.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250406173035.png) | [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] |
-| ![0-Immagini e altro/Lorenzo/Thomas Bertrand.png\|Thomas Bertrand.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Thomas%20Bertrand.png)                         | [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]                 |
-| ![0-Immagini e altro/Dice Home.png\|Dice Home.png](/img/user/0-Immagini%20e%20altro/Dice%20Home.png)                                             | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
-
-{ .block-language-dataview}
-
----
-
 ![Pasted image 20250331194452.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250331194452.png)
 Campagna creata da Lorenzo Grassi seguendo il manuale di Curse of strahd.
 
@@ -66,6 +50,18 @@ views:
     order:
       - file.name
 ```
+
+# Character
+|                                                                                                  | Personaggio                                                                              |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| ![0-Immagini e altro/Lorenzo/Gabriel Noctis.png\|Gabriel Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Gabriel%20Noctis.png)                           | [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]                   |
+| ![0-Immagini e altro/Lorenzo/Kenjiro Nozomi.png\|Kenjiro Nozomi.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Kenjiro%20Nozomi.png)                           | [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]]                   |
+| ![0-Immagini e altro/Lorenzo/Mevis Noctis.png\|Mevis Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Mevis%20Noctis.png)                               | [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]                       |
+| ![0-Immagini e altro/Lorenzo/Pasted image 20250406173035.png\|Pasted image 20250406173035.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250406173035.png) | [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] |
+| ![0-Immagini e altro/Lorenzo/Thomas Bertrand.png\|Thomas Bertrand.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Thomas%20Bertrand.png)                         | [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]                 |
+| ![0-Immagini e altro/Dice Home.png\|Dice Home.png](/img/user/0-Immagini%20e%20altro/Dice%20Home.png)                                             | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
+
+{ .block-language-dataview}
 
 # Sessioni
 ```base
