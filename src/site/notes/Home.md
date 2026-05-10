@@ -13,7 +13,7 @@ Benvenuto nel [[Francesco Bonaiuti\|mio]] diario delle campagne di D&D!
 
 
 
-ciao 5
+ciao 6
 
 ---
 |                                                                                                        | Personaggio                                                                              |
