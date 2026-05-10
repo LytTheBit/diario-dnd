@@ -14,7 +14,7 @@ Benvenuto nel [[Francesco Bonaiuti\|mio]] diario delle campagne di D&D!
 
 
 
-Test num: 11
+Test num: 12
 
 ---
 |                                                                                                        | Personaggio                                                                              |

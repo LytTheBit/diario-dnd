@@ -3,7 +3,7 @@
 ---
 
 
-Test num: 11
+Test num: 12
 
 ---
 |                                                                                                        | Personaggio                                                                              |
