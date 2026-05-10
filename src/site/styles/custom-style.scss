@@ -4,17 +4,14 @@ body {
     flex-wrap: wrap !important;
     gap: 16px !important;
   }
-
   main.cards .dataview.table-view-table,
   main.cards .table-view-thead,
   main.cards .table-view-tbody {
     display: contents !important;
   }
-
   main.cards .table-view-tr-header {
     display: none !important;
   }
-
   main.cards .table-view-tbody tr {
     display: flex !important;
     flex-direction: column !important;
@@ -27,38 +24,38 @@ body {
     position: relative !important;
     transition: border-color 0.2s ease, box-shadow 0.2s ease !important;
   }
-
   main.cards .table-view-tbody tr:hover {
     border-color: #c14343 !important;
     box-shadow: 0 0 12px rgba(193, 67, 67, 0.4) !important;
   }
-
   main.cards .table-view-tbody td {
     display: block !important;
     border: none !important;
     padding: 0 !important;
   }
-
+  main.cards .table-view-tbody td:first-child {
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 0 !important;
+    line-height: 0 !important;
+  }
   main.cards .table-view-tbody td:last-child {
     padding: 10px 8px !important;
     font-size: 15px !important;
     font-weight: bold !important;
     color: #e5ebee !important;
   }
-
   main.cards .table-view-tbody td:last-child a {
     color: #e5ebee !important;
     text-decoration: none !important;
     position: static !important;
   }
-
   main.cards .table-view-tbody td:last-child a::after {
     content: "" !important;
     position: absolute !important;
     inset: 0 !important;
     z-index: 1 !important;
   }
-
   main.cards .table-view-tbody td picture,
   main.cards .table-view-tbody td img {
     width: 100% !important;
