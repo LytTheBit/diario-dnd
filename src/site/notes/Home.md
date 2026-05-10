@@ -13,7 +13,7 @@ Benvenuto nel [[Francesco Bonaiuti\|mio]] diario delle campagne di D&D!
 
 
 
-
+ciao
 |                                                                        | Personaggio                                                                              |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [Gabriel Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Gabriel%20Noctis.png)  | [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]                   |

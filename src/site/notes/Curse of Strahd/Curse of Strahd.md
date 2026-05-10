@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Curse of Strahd/Curse of Strahd/","tags":["Campagna","DnD"],"noteIcon":"","dg-note-properties":{"Sistema":"D&D","Master":"Lorenzo Grassi","Player":["Martina Schirona","Gabriele Attucci","Lorenzo Camuso","Nodar Varazashvili","Francesco Bonaiuti"],"tags":["Campagna","DnD"]}}
 ---
 
-
+ciao
 |                                                                        | Personaggio                                                                              |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [Gabriel Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Gabriel%20Noctis.png)  | [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]                   |
