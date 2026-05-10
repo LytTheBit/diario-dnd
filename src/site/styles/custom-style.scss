@@ -1,13 +1,41 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  main.cards .block-language-dataview.table-wrapper {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 16px !important;
+  }
+
+  main.cards .dataview.table-view-table,
+  main.cards .table-view-thead,
+  main.cards .table-view-tbody {
+    display: contents !important;
+  }
+
+  main.cards .table-view-tr-header {
+    display: none !important;
+  }
+
+  main.cards .table-view-tbody tr {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 200px !important;
+    border-radius: 8px !important;
+    overflow: hidden !important;
+    background: #1e1e1e !important;
+    border: 1px solid #444 !important;
+    text-align: center !important;
+  }
+
+  main.cards .table-view-tbody td {
+    display: block !important;
+    border: none !important;
+    padding: 0 !important;
+  }
+
+  main.cards .table-view-tbody td img {
+    width: 100% !important;
+    height: 250px !important;
+    object-fit: cover !important;
+    object-position: top !important;
+  }
 }
