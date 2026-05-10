@@ -21,9 +21,15 @@ body {
     width: 200px !important;
     border-radius: 8px !important;
     overflow: hidden !important;
-    background: #1e1e1e !important;
-    border: 1px solid #444 !important;
+    background: #1a1e24 !important;
+    border: 1px solid #652121 !important;
     text-align: center !important;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease !important;
+  }
+
+  main.cards .table-view-tbody tr:hover {
+    border-color: #c14343 !important;
+    box-shadow: 0 0 12px rgba(193, 67, 67, 0.4) !important;
   }
 
   main.cards .table-view-tbody td {
@@ -32,10 +38,19 @@ body {
     padding: 0 !important;
   }
 
+  main.cards .table-view-tbody td:last-child {
+    padding: 10px 8px !important;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    color: #e5ebee !important;
+  }
+
+  main.cards .table-view-tbody td picture,
   main.cards .table-view-tbody td img {
     width: 100% !important;
     height: 250px !important;
     object-fit: cover !important;
-    object-position: top !important;
+    object-position: center top !important;
+    display: block !important;
   }
 }
