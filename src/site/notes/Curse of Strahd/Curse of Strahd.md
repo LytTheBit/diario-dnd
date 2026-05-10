@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Curse of Strahd/Curse of Strahd/","tags":["Campagna","DnD"],"noteIcon":"","dg-note-properties":{"Sistema":"D&D","Master":"Lorenzo Grassi","Player":["Martina Schirona","Gabriele Attucci","Lorenzo Camuso","Nodar Varazashvili","Francesco Bonaiuti"],"tags":["Campagna","DnD"]}}
 ---
 
-ciao 4
+ciao 5
 
 ---
 |                                                                                                        | Personaggio                                                                              |
