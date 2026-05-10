@@ -14,17 +14,17 @@ Benvenuto nel [[Francesco Bonaiuti\|mio]] diario delle campagne di D&D!
 
 
 
-Test num: 12
+Test num: 13
 
 ---
-|                                                                                                        | Personaggio                                                                              |
-| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| [Gabriel Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Gabriel%20Noctis.png)                                  | [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]                   |
-| ![0-Immagini e altro/Lorenzo/Kenjiro Nozomi.png\|Kenjiro Nozomi.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Kenjiro%20Nozomi.png)                                 | [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]]                   |
-| Mevis Noctis.png                                                                                       | [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]                       |
-| Pasted image 20250406173035.png                                                                        | [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] |
-| Thomas Bertrand.png                                                                                    | [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]                 |
-| https://forum.obsidian.md/uploads/default/original/3X/f/6/f69764f1b9884ad2a2a3fcb8f58653f339c8d4fb.png | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
+|                                                                                                  | Personaggio                                                                              |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| ![0-Immagini e altro/Lorenzo/Gabriel Noctis.png\|Gabriel Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Gabriel%20Noctis.png)                           | [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]                   |
+| ![0-Immagini e altro/Lorenzo/Kenjiro Nozomi.png\|Kenjiro Nozomi.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Kenjiro%20Nozomi.png)                           | [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]]                   |
+| ![0-Immagini e altro/Lorenzo/Mevis Noctis.png\|Mevis Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Mevis%20Noctis.png)                               | [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]                       |
+| ![0-Immagini e altro/Lorenzo/Pasted image 20250406173035.png\|Pasted image 20250406173035.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250406173035.png) | [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] |
+| ![0-Immagini e altro/Lorenzo/Thomas Bertrand.png\|Thomas Bertrand.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Thomas%20Bertrand.png)                         | [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]                 |
+| ![0-Immagini e altro/Dice Home.png\|Dice Home.png](/img/user/0-Immagini%20e%20altro/Dice%20Home.png)                                             | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
 
 { .block-language-dataview}
 
