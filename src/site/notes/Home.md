@@ -19,7 +19,7 @@ Campagna creata da Lorenzo Grassi seguendo il manuale di Curse of strahd.
 
 # Plot
 Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] per poter fuggire dal [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]]
-
+## Quest in corso
 |                                              | Quest                                                                                           |
 | -------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Gemme delle Fane\|Gemme delle Fane]]               |
@@ -31,7 +31,7 @@ Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Stra
 | ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Tempio della luce\|Tempio della luce]]             |
 
 { .block-language-dataview}
-
+## Quest completate
 |                                              | Quest                                                                                       |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Rivoluzione a Vallaki\|Rivoluzione a Vallaki]] |
