@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 01/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"Copertina Strahd.png","tags":["Sessione"],"Campagna":"[[Curse of Strahd]]"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 01/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"![Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png)","tags":["Sessione"],"Campagna":"[[Curse of Strahd]]"}}
 ---
 
 Mentre facevamo le nostre cose, io ([[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]), [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]], e i fratelli [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]] e [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]] ci siamo ritrovati circondati da una strana [[Curse of Strahd/Informazioni/Lore/Nebbia\|Nebbia]] nel bel mezzo di una foresta oscura.

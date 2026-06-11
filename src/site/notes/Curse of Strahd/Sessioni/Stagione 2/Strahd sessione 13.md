@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 13/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"Copertina Strahd.png","tags":["Sessione"],"Data":"18/4/2026","Campagna":"[[Curse of Strahd]]"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 13/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"![Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png)","tags":["Sessione"],"Data":"18/4/2026","Campagna":"[[Curse of Strahd]]"}}
 ---
 
 **Precedente:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 12\|Strahd sessione 12]]

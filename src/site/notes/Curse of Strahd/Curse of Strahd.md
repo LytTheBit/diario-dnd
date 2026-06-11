@@ -9,36 +9,24 @@ Campagna creata da Lorenzo Grassi seguendo il manuale di Curse of strahd.
 # Plot
 Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] per poter fuggire dal [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]]
 
-```base
-filters:
-  and:
-    - file.inFolder("Curse of Strahd")
-    - file.hasTag("Quest")
-    - not:
-      - file.hasTag("completata")
-views:
-  - type: cards
-    name: "Quest Attive"
-    image: immagine
-    imageFit: cover
-    order:
-      - file.name
-```
+|                                              | Quest                                                                                           |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Gemme delle Fane\|Gemme delle Fane]]               |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Invito a cena\|Invito a cena]]                     |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Le fortune di Ravenloft\|Le fortune di Ravenloft]] |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Mary la pazza\|Mary la pazza]]                     |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Megere\|Megere]]                                   |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Proteggere Ireena\|Proteggere Ireena]]             |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Tempio della luce\|Tempio della luce]]             |
 
-```base
-filters:
-  and:
-    - file.inFolder("Curse of Strahd")
-    - file.hasTag("Quest")
-    - file.hasTag("completata")
-views:
-  - type: cards
-    name: "Quest Completate"
-    image: immagine
-    imageFit: cover
-    order:
-      - file.name
-```
+{ .block-language-dataview}
+
+|                                              | Quest                                                                                       |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Rivoluzione a Vallaki\|Rivoluzione a Vallaki]] |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Sparizioni a Borovia\|Sparizioni a Borovia]]   |
+
+{ .block-language-dataview}
 
 # Character
 |                                                                                                  | Personaggio                                                                              |
@@ -53,31 +41,24 @@ views:
 { .block-language-dataview}
 
 # Sessioni
-```base
-filters:
-  and:
-    - file.inFolder("Curse of Strahd/Sessioni")
-views:
-  - type: cards
-    name: "Sessioni"
-    image: immagine
-    imageFit: cover
-    order:
-      - file.name
-```
+|                                                                            | Sessione                                                                          |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 01\|Strahd sessione 01]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 02\|Strahd sessione 02]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 03\|Strahd sessione 03]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 04\|Strahd sessione 04]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 05\|Strahd sessione 05]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 06\|Strahd sessione 06]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 07\|Strahd sessione 07]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 08\|Strahd sessione 08]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 09\|Strahd sessione 09]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 10\|Strahd sessione 10]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 11\|Strahd sessione 11]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 12\|Strahd sessione 12]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 13\|Strahd sessione 13]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 14\|Strahd sessione 14]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 15\|Strahd sessione 15]] |
 
+{ .block-language-dataview}
 
-# Player
-```base
-filters:
-  and:
-    - file.inFolder("Curse of Strahd/Personaggi/Party")
-views:
-  - type: cards
-    name: "Party - Strahd"
-    image: immagine
-    imageFit: cover
-    order:
-      - file.name
-```
 

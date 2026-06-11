@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 14/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"Copertina Strahd.png","tags":["Sessione"],"Data":"02/5/2026","Campagna":"[[Curse of Strahd]]"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 14/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"![Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png)","tags":["Sessione"],"Data":"02/5/2026","Campagna":"[[Curse of Strahd]]"}}
 ---
 
 **Precedente:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 13\|Strahd sessione 13]]
@@ -13,6 +13,6 @@ Nel frattempo il Professore e [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\
 
 Al arrivo dei nobili convinciamo [[Curse of Strahd/Personaggi/NPC/Alleati/Victor Vallakovich\|Victor Vallakovich]] a cedere il titolo di borgomastro ad [[Curse of Strahd/Personaggi/NPC/Alleati/Lady Fiona Watcher\|Lady Fiona Watcher]]. Che per ricompensa ci regala un [[Armatura del conquistratore\|Armatura del conquistratore]].
 
-Partiamo poi con [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena Kolyana]] verso la città di [[Città\|Città]]
+Partiamo poi con [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena Kolyana]] verso il [[Villaggio di Krezk\|Villaggio di Krezk]]
 
-**Continua:** [[Strahd sessione 15\|Strahd sessione 15]]
+**Continua:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 15\|Strahd sessione 15]]

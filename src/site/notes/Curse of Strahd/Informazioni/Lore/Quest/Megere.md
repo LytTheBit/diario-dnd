@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Lore/Quest/Megere/","tags":["Quest"],"noteIcon":"","dg-note-properties":{"aliases":null,"Campagna":"[[Curse of Strahd]]","tags":["Quest"],"Immagine":"quest.jpg"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Lore/Quest/Megere/","tags":["Quest"],"noteIcon":"","dg-note-properties":{"aliases":null,"Campagna":"[[Curse of Strahd]]","tags":["Quest"],"Immagine":"![quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg)"}}
 ---
 
 Uccidere le [[Curse of Strahd/Informazioni/Organizzazioni/Megere (Strhad)\|Megere (Strhad)]] che ammazzano i bambini per farci [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Torta salata (consumabile)\|torte salate]].

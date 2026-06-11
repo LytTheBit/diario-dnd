@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 08/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"Copertina Strahd.png","tags":["Sessione"],"Data":"14/11/2025","Campagna":"[[Curse of Strahd]]"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 08/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"![Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png)","tags":["Sessione"],"Data":"14/11/2025","Campagna":"[[Curse of Strahd]]"}}
 ---
 
 

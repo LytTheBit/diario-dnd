@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Lore/Quest/Sparizioni a Borovia/","tags":["Quest","completata"],"noteIcon":"","dg-note-properties":{"aliases":null,"Campagna":"[[Curse of Strahd]]","tags":["Quest","completata"],"Città":"[[Curse of Strahd/Mondo/Città/Villaggio di Barovia\|Villaggio di Barovia]]","Immagine":"quest.jpg"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Lore/Quest/Sparizioni a Borovia/","tags":["Quest","completata"],"noteIcon":"","dg-note-properties":{"aliases":null,"Campagna":"[[Curse of Strahd]]","tags":["Quest","completata"],"Città":"[[Curse of Strahd/Mondo/Città/Villaggio di Barovia\|Villaggio di Barovia]]","Immagine":"![quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg)"}}
 ---
 
 Aiutare [[Curse of Strahd/Personaggi/NPC/Ismark Kolyanovich\|Ismark Kolyanovich]] a risolvere le sparizioni al [[Curse of Strahd/Mondo/Città/Villaggio di Barovia\|Villaggio di Barovia]]

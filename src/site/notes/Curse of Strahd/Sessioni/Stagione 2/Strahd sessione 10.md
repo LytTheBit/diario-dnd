@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 10/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"Copertina Strahd.png","tags":["Sessione"],"Data":"24/1/2026","Campagna":"[[Curse of Strahd]]"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 10/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"![Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png)","tags":["Sessione"],"Data":"24/1/2026","Campagna":"[[Curse of Strahd]]"}}
 ---
 
 

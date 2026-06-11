@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Lore/Quest/Le fortune di Ravenloft/","tags":["Quest"],"noteIcon":"","dg-note-properties":{"aliases":null,"Campagna":"[[Curse of Strahd]]","tags":["Quest"],"Immagine":"quest.jpg"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Lore/Quest/Le fortune di Ravenloft/","tags":["Quest"],"noteIcon":"","dg-note-properties":{"aliases":null,"Campagna":"[[Curse of Strahd]]","tags":["Quest"],"Immagine":"![quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg)"}}
 ---
 
 Tarocchi datici da [[Curse of Strahd/Personaggi/NPC/Madam Eva\|Madam Eva]]: *le fortune di Ravenloft*
@@ -13,6 +13,10 @@ Tarocchi datici da [[Curse of Strahd/Personaggi/NPC/Madam Eva\|Madam Eva]]: *le 
 *Questa carta racconta di una potente forza per il bene e la protezione, un simbolo sacro di grande speranza.*
 **Monaco**: il tesoro che cerchi è nascosto dietro il sole, nella casa di un santo.
 **Tentatore**: sento una campana nuziale, o forse un rintocco funebre. Ti chiama in un'abbazia di montagna, dove troverai una donna che è più della somma delle sue parti.
+
+
+> [!NOTE] Completato
+> Abbiamo trovato il [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Holy Symbol of Ravenkind\|Holy Symbol of Ravenkind]] nascosto dal [[Curse of Strahd/Personaggi/NPC/Abate\|Abate]]
 
 ### Veggente & Incappucciato
 *Questa è una carta di potere e forza. Racconta di un'arma di vendetta: una spada di luce solare.*

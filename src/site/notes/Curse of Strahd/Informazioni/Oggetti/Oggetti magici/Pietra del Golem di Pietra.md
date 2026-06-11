@@ -2,56 +2,51 @@
 {"dg-publish":true,"permalink":"/Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Pietra del Golem di Pietra/","tags":["oggettoM"],"noteIcon":"","dg-note-properties":{"tags":["oggettoM"],"Immagine":"Stone golem.png"}}
 ---
 
-Sasso capace di evocare un golem di pietra.
+Sasso capace di evocare un elementare della terra.
 Ricevuta dai [[Curse of Strahd/Informazioni/Organizzazioni/Vistani\|Vistani]] per aver salvato [[Curse of Strahd/Personaggi/NPC/Arabelle\|Arabelle]]
 ![Stone golem.png\|697x697](/img/user/0-Immagini%20e%20altro/Lorenzo/Stone%20golem.png)
 ```statblock
-forceColumns: 2
-name: Stone Golem
+forceColumns: 1
+name: Earth Elemental
 source: 5e SRD
 size: Large
-type: construct
+type: elemental
 subtype: ""
-alignment: unaligned
+alignment: neutral
 ac: 17
-hp: 178
-hit_dice: 17d10 + 84
-speed: 30 ft.
+hp: 126
+hit_dice: 12d10 + 60
+speed: 30 ft., burrow 30 ft.
 stats:
-  - 22
-  - 9
   - 20
-  - 3
-  - 11
-  - 1
-damage_vulnerabilities: ""
-damage_resistances: ""
-damage_immunities: poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
-condition_immunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-senses: darkvision 120 ft., passive Perception 10
-languages: understands the languages of its creator but can't speak
-cr: "10"
+  - 8
+  - 20
+  - 5
+  - 10
+  - 5
+damage_vulnerabilities: thunder
+damage_resistances: bludgeoning, piercing, and slashing from nonmagical weapons
+damage_immunities: poison
+condition_immunities: exhaustion, paralyzed, petrified, poisoned, unconscious
+senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+languages: Terran
+cr: "5"
 bestiary: true
 traits:
-  - name: Immutable Form
-    desc: The golem is immune to any spell or effect that would alter its form.
+  - name: Earth Glide
+    desc: The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
     attack_bonus: 0
-  - name: Magic Resistance
-    desc: The golem has advantage on saving throws against spells and other magical effects.
-    attack_bonus: 0
-  - name: Magic Weapons
-    desc: The golem's weapon attacks are magical.
+  - name: Siege Monster
+    desc: The elemental deals double damage to objects and structures.
     attack_bonus: 0
 actions:
   - name: Multiattack
-    desc: The golem makes two slam attacks.
+    desc: The elemental makes two slam attacks.
     attack_bonus: 0
   - name: Slam
-    desc: "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage."
-    attack_bonus: 10
-    damage_dice: 3d8
-    damage_bonus: 6
-  - name: Slow (Recharge 5-6)
-    desc: The golem targets one or more creatures it can see within 10 ft. of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-    attack_bonus: 0
+    desc: "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage."
+    attack_bonus: 8
+    damage_dice: 2d8
+    damage_bonus: 5
+
 ```

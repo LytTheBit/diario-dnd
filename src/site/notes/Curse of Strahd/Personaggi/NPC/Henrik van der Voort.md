@@ -3,4 +3,4 @@
 ---
 
 Ha rubato le [[ossa\|ossa]] e le ha nascoste al [[Lago Zarovich\|Lago Zarovich]] per volere di una [[Donna dai capelli rossi\|Donna dai capelli rossi]]
-![image-1.png](/img/user/0-Immagini%20e%20altro/Lorenzo/image-1.png)
+![Abate-1.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Abate-1.png)

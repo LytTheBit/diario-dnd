@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 12/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"Copertina Strahd.png","tags":["Sessione"],"Data":"20/3/2026","Campagna":"[[Curse of Strahd]]"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 12/","tags":["Sessione"],"noteIcon":"","dg-note-properties":{"Immagine":"![Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png)","tags":["Sessione"],"Data":"20/3/2026","Campagna":"[[Curse of Strahd]]"}}
 ---
 
 **Precedente:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 11\|Strahd sessione 11]]
@@ -16,9 +16,9 @@ Ci racconta che:
 
 > [!NOTE]
 > [[Chander\|Chander]] (con un oggetto magico) e [[Marcovia\|Marcovia]] (santa del [[Curse of Strahd/Informazioni/Lore/Divinità/Lathander\|Lathander]]) hanno combattuto contro [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] (in periodi separati) Questo lo ha portato a crearsi una immunità ai danni radianti (tramite [[artefatto immunità radianti\|artefatto]]).
-> La spada la ricevuta il [[Sergei von Zarovich\|fratello di Strahd]] (ora morto) dal signore del mattino.
+> La spada la ricevuta il [[Curse of Strahd/Personaggi/NPC/Sergei Von Zarovich\|fratello di Strahd]] (ora morto) dal signore del mattino.
 > **Note/teorie finali**
-> - [[Sunsword\|Spada del signore del mattino]] di [[Sergei von Zarovich\|Sergei von Zarovich]] 
+> - [[Sunsword\|Spada del signore del mattino]] di [[Curse of Strahd/Personaggi/NPC/Sergei Von Zarovich\|Sergei Von Zarovich]] 
 > - Marcovia -> si è reincarnazione in Irina(?) 
 > - E la maledetto Strahd a non stare assieme(?)
 
