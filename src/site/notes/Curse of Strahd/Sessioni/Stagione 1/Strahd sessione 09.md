@@ -8,7 +8,7 @@
 
 [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]] si risveglia e trova una lettera di suo fratello [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]] che li spiega che è successo la scorsa volta.
 
-Riaccompagnammo [[Corvo madre\|Corvo madre]] e [[Corvo figlio\|Corvo figlio]] al vigneto dai [[Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari\|Corvi mannari]]. E torniamo cosi a [[Curse of Strahd/Mondo/Città/Vallaki\|Vallaki]].
+Riaccompagnammo [[Corvo madre\|Corvo madre]] e [[Corvo figlio\|Corvo figlio]] al vigneto dai [[Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari\|Corvi mannari]]. E torniamo cosi a [[Curse of Strahd/Mondo/Città/Villaggio di Vallaki\|Villaggio di Vallaki]].
 
 In tanto [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]] scopre va alla [[Curse of Strahd/Mondo/Luoghi/Chiesa di St. Andral\|Chiesa di St. Andral]] e scopre da [[Prete di Vallaki\|Prete di Vallaki]] che le reliquie che proteggono la città dai #non-morti, delle ossa, sono state rubate.
 Di ritorno dalla chiesa scopre che il [[Curse of Strahd/Personaggi/NPC/Nemici/Baron Vargas Vallakovich\|borgomastro della città]] ha fatto mettere alla gogna dei cittadini innocenti solo perchè non stavano festeggiando. Lei li salva e viene notata da un certo [[Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak\|Ernst Larnak]], che fa parte della resistenza e le chiede se volesse incontrare la sua padrona. 

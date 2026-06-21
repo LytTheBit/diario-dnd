@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Personaggi/NPC/Alleati/Danika Martikov/","tags":["donna","umano","animale","npc"],"noteIcon":"","dg-note-properties":{"tags":["donna","umano","animale","npc"],"Immagine":"Danika Martikov.png","Città":"[[Vallaki]]"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Personaggi/NPC/Alleati/Danika Martikov/","tags":["donna","umano","animale","npc"],"noteIcon":"","dg-note-properties":{"tags":["donna","umano","animale","npc"],"Immagine":"Danika Martikov.png","Città":"[[Villaggio di Vallaki]]"}}
 ---
 
 Un [[Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari\|Corvi mannari]] assieme a suo marito [[Curse of Strahd/Personaggi/NPC/Alleati/Urwin Martikov\|Urwin Martikov]].

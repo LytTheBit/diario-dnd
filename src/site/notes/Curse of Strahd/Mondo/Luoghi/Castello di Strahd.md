@@ -6,5 +6,7 @@ Strano castello a [[Curse of Strahd/Mondo/Regioni/Revenloft\|Revenloft]], a una 
 Probabilmente appartiene a [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]]
 
 è enorme, è facilmente visibile da [[Curse of Strahd/Mondo/Città/Villaggio di Barovia\|Villaggio di Barovia]] nonostante sia lontanissimo.
-
 ![Castello di Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Castello%20di%20Strahd.png)
+
+### Mappa 
+![image.png](/img/user/image.png)![image-1.png](/img/user/image-1.png)![image-2.png](/img/user/image-2.png)

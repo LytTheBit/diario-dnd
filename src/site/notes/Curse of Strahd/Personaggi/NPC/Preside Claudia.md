@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Personaggi/NPC/Preside Claudia/","tags":["donna","umano","npc"],"noteIcon":"","dg-note-properties":{"tags":["donna","umano","npc"],"Immagine":"Pasted image 20251026213812.png","Città":"[[Vallaki]]"}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Personaggi/NPC/Preside Claudia/","tags":["donna","umano","npc"],"noteIcon":"","dg-note-properties":{"tags":["donna","umano","npc"],"Immagine":"Pasted image 20251026213812.png","Città":"[[Villaggio di Vallaki]]"}}
 ---
 
 Gestisce l'[[Curse of Strahd/Mondo/Luoghi/Orfanotrofio (Vallaki)\|Orfanotrofio (Vallaki)]]

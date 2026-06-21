@@ -6,7 +6,7 @@
 
 **Precedente:** [[Curse of Strahd/Sessioni/Stagione 1/Strahd sessione 05\|Strahd sessione 05]]
 
-Siamo a [[Curse of Strahd/Mondo/Città/Vallaki\|Vallaki]], il mio PG è stato accompagnato da [[Curse of Strahd/Personaggi/NPC/Alleati/Vasili Von Holtz\|Vasili Von Holtz]] fino alla città. 
+Siamo a [[Curse of Strahd/Mondo/Città/Villaggio di Vallaki\|Villaggio di Vallaki]], il mio PG è stato accompagnato da [[Curse of Strahd/Personaggi/NPC/Alleati/Vasili Von Holtz\|Vasili Von Holtz]] fino alla città. 
 
 [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]] viene visitato in sogno da una [[Curse of Strahd/Informazioni/Organizzazioni/Fane\|Fane]] [[Senza Occhi\|Senza Occhi]], che li racconta che lei e le sue sorelle ([[Senza Pelle\|Senza Pelle]] e [[Senza Cuore\|Senza Cuore]]) sono state rovinate da [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]], e le [[Curse of Strahd/Informazioni/Oggetti/Oggetti magici/Perle delle driadi\|Perle delle driadi]] che avevano donato ai [[Curse of Strahd/Informazioni/Organizzazioni/Corvi mannari\|Corvi mannari]] sono state rubate
 

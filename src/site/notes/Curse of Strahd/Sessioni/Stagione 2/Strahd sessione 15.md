@@ -24,4 +24,4 @@ Ma prima scopriamo che nasconde un oggetto magico nel altare. Mentre [[Curse of 
 L'abate ci scopre, ma [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas]] lo immobilizza e fuggiamo assieme ad [[Curse of Strahd/Personaggi/NPC/Alleati/Ezmeralda\|Ezmeralda]] e [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena]].
 
 
-**Continua:** [[Strahd sessione 16\|Strahd sessione 16]]
+**Continua:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 16\|Strahd sessione 16]]

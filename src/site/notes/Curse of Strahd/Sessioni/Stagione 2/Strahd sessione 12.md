@@ -22,7 +22,7 @@ Ci racconta che:
 > - Marcovia -> si è reincarnazione in Irina(?) 
 > - E la maledetto Strahd a non stare assieme(?)
 
-Torniamo quindi a [[Curse of Strahd/Mondo/Città/Vallaki\|Vallaki]], dove andiamo ad investigare il [[Curse of Strahd/Personaggi/NPC/Henrik van der Voort\|Tombarolo]]. Scopriamo che ha la casa piena di vampiri. Li uccidiamo mentre lui prova a fuggire, ma viene riacchiappato da [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]] e [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]].
+Torniamo quindi a [[Curse of Strahd/Mondo/Città/Villaggio di Vallaki\|Villaggio di Vallaki]], dove andiamo ad investigare il [[Curse of Strahd/Personaggi/NPC/Henrik van der Voort\|Tombarolo]]. Scopriamo che ha la casa piena di vampiri. Li uccidiamo mentre lui prova a fuggire, ma viene riacchiappato da [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]] e [[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]].
 Ci racconta che è stata una [[Donna dai capelli rossi\|Donna dai capelli rossi]] a dirli di rubare le ossa. Recuperiamo cosi le ossa e siamo pronti a riconsegnarle alla chiesa.
 
 **Continua:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 13\|Strahd sessione 13]]

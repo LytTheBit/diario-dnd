@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Curse of Strahd/Personaggi/NPC/Henrik van der Voort/","tags":["umano","npc","donna","incantatore"],"noteIcon":"","dg-note-properties":{"tags":["umano","npc","donna","incantatore"],"Immagine":"Arabelle.png","Città":"[[Vallaki]]","Fazioni":"[[Vistani]]","aliases":["Tombarolo","Produttore di bare"]}}
+{"dg-publish":true,"permalink":"/Curse of Strahd/Personaggi/NPC/Henrik van der Voort/","tags":["umano","npc","donna","incantatore"],"noteIcon":"","dg-note-properties":{"tags":["umano","npc","donna","incantatore"],"Immagine":"Arabelle.png","Città":"[[Villaggio di Vallaki]]","Fazioni":"[[Vistani]]","aliases":["Tombarolo","Produttore di bare"]}}
 ---
 
 Ha rubato le [[ossa\|ossa]] e le ha nascoste al [[Lago Zarovich\|Lago Zarovich]] per volere di una [[Donna dai capelli rossi\|Donna dai capelli rossi]]

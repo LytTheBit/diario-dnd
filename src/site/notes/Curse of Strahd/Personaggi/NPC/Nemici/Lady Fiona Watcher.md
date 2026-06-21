@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/Curse of Strahd/Personaggi/NPC/Nemici/Lady Fiona Watcher/","tags":["umano","npc","donna","politico"],"noteIcon":"","dg-note-properties":{"tags":["umano","npc","donna","politico"],"Immagine":"Nobilessa Vallaki.png","Città":"[[Curse of Strahd/Mondo/Città/Villaggio di Vallaki\|Villaggio di Vallaki]]","Fazioni":"[[Ribelli Vallaki]]"}}
+---
+
+Donna a capo della seconda famiglia nobile più influente a [[Curse of Strahd/Mondo/Città/Villaggio di Vallaki\|Villaggio di Vallaki]]. Ha una [[Curse of Strahd/Personaggi/NPC/Stella Watcher\|figlia]] e un [[Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak\|servitore fedele]].
+Si oppone fermamente alla dittatura del borgomastro [[Curse of Strahd/Personaggi/NPC/Nemici/Baron Vargas Vallakovich\|Baron Vargas Vallakovich]] da quando quest'ultimo e suo figlio [[Curse of Strahd/Personaggi/NPC/Alleati/Victor Vallakovich\|Victor Vallakovich]] hanno maledetto sua [[Curse of Strahd/Personaggi/NPC/Stella Watcher\|figlia]] costringendola a comportarsi come un gatto.
+
+è vedova ed era sposata con un arcanista.
+
+
+> [!NOTE] Update
+> L'abbiamo aiutata a salire al potere e adesso è una dittatrice pazza... Ops
+
+
+![Nobilessa Vallaki.png\|304x457](/img/user/0-Immagini%20e%20altro/Lorenzo/Nobilessa%20Vallaki.png)

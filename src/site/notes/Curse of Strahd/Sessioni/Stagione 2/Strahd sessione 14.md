@@ -11,7 +11,7 @@ Con un pò di dialettica riesce ad allontanarsi ed arrivare al [[Lago Zarovich\|
 Intanto [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis]], [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena Kolyana]], [[Curse of Strahd/Personaggi/NPC/Izek Strazni\|Izek Strazni]] e [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]] vanno in chiesa a riorganizzarsi.
 Nel frattempo il Professore e [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Ken]] aspettano assieme ad [[Curse of Strahd/Personaggi/NPC/Alleati/Victor Vallakovich\|Victor Vallakovich]] i nobili della città per fare il punto della situazione.
 
-Al arrivo dei nobili convinciamo [[Curse of Strahd/Personaggi/NPC/Alleati/Victor Vallakovich\|Victor Vallakovich]] a cedere il titolo di borgomastro ad [[Curse of Strahd/Personaggi/NPC/Alleati/Lady Fiona Watcher\|Lady Fiona Watcher]]. Che per ricompensa ci regala un [[Armatura del conquistratore\|Armatura del conquistratore]].
+Al arrivo dei nobili convinciamo [[Curse of Strahd/Personaggi/NPC/Alleati/Victor Vallakovich\|Victor Vallakovich]] a cedere il titolo di borgomastro ad [[Curse of Strahd/Personaggi/NPC/Nemici/Lady Fiona Watcher\|Lady Fiona Watcher]]. Che per ricompensa ci regala un [[Armatura del conquistratore\|Armatura del conquistratore]].
 
 Partiamo poi con [[Curse of Strahd/Personaggi/NPC/Alleati/Ireena Kolyana\|Ireena Kolyana]] verso il [[Villaggio di Krezk\|Villaggio di Krezk]]
 

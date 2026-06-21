@@ -36,7 +36,7 @@ Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Stra
 | ![0-Immagini e altro/Lorenzo/Mevis Noctis.png\|Mevis Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Mevis%20Noctis.png)                               | [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]                       |
 | ![0-Immagini e altro/Lorenzo/Pasted image 20250406173035.png\|Pasted image 20250406173035.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250406173035.png) | [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] |
 | ![0-Immagini e altro/Lorenzo/Thomas Bertrand.png\|Thomas Bertrand.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Thomas%20Bertrand.png)                         | [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]                 |
-| ![0-Immagini e altro/Dice Home.png\|Dice Home.png](/img/user/0-Immagini%20e%20altro/Dice%20Home.png)                                             | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
+| ![Zi Han.png\|Zi Han.png](/img/user/Zi%20Han.png)                                                                      | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
 
 { .block-language-dataview}
 
@@ -58,6 +58,8 @@ Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Stra
 | ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 13\|Strahd sessione 13]] |
 | ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 14\|Strahd sessione 14]] |
 | ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 15\|Strahd sessione 15]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 16\|Strahd sessione 16]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 17\|Strahd sessione 17]] |
 
 { .block-language-dataview}
 
