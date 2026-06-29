@@ -20,15 +20,16 @@ Campagna creata da Lorenzo Grassi seguendo il manuale di Curse of strahd.
 # Plot
 Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] per poter fuggire dal [[Curse of Strahd/Mondo/Regioni/Reame di Barovia\|Reame di Barovia]]
 ## Quest in corso
-|                                              | Quest                                                                                           |
-| -------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Gemme delle Fane\|Gemme delle Fane]]               |
-| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Invito a cena\|Invito a cena]]                     |
-| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Le fortune di Ravenloft\|Le fortune di Ravenloft]] |
-| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Mary la pazza\|Mary la pazza]]                     |
-| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Megere\|Megere]]                                   |
-| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Proteggere Ireena\|Proteggere Ireena]]             |
-| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Tempio della luce\|Tempio della luce]]             |
+|                                              | Quest                                                                                               |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Gemme delle Fane\|Gemme delle Fane]]                   |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Invito a cena\|Invito a cena]]                         |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Le fortune di Ravenloft\|Le fortune di Ravenloft]]     |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Mary la pazza\|Mary la pazza]]                         |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Megere\|Megere]]                                       |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Proteggere Ireena\|Proteggere Ireena]]                 |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/Tempio della luce\|Tempio della luce]]                 |
+| ![0-Immagini e altro/quest.jpg\|quest.jpg](/img/user/0-Immagini%20e%20altro/quest.jpg) | [[Curse of Strahd/Informazioni/Lore/Quest/The Love of Angynvostholt\|The Love of Angynvostholt]] |
 
 { .block-language-dataview}
 ## Quest completate
@@ -47,7 +48,7 @@ Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Stra
 | ![0-Immagini e altro/Lorenzo/Mevis Noctis.png\|Mevis Noctis.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Mevis%20Noctis.png)                               | [[Curse of Strahd/Personaggi/Party/Mavis Noctis\|Mavis Noctis]]                       |
 | ![0-Immagini e altro/Lorenzo/Pasted image 20250406173035.png\|Pasted image 20250406173035.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Pasted%20image%2020250406173035.png) | [[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]] |
 | ![0-Immagini e altro/Lorenzo/Thomas Bertrand.png\|Thomas Bertrand.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Thomas%20Bertrand.png)                         | [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Thomas Bertrand]]                 |
-| ![Zi Han.png\|Zi Han.png](/img/user/Zi%20Han.png)                                                                      | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
+| ![0-Immagini e altro/Zi Han.png\|Zi Han.png](/img/user/0-Immagini%20e%20altro/Zi%20Han.png)                                                   | [[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]                                   |
 
 { .block-language-dataview}
 
@@ -71,6 +72,7 @@ Gli eroi devono sconfiggere [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Stra
 | ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 15\|Strahd sessione 15]] |
 | ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 16\|Strahd sessione 16]] |
 | ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 17\|Strahd sessione 17]] |
+| ![0-Immagini e altro/Lorenzo/Copertina Strahd.png\|Copertina Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Copertina%20Strahd.png) | [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 18\|Strahd sessione 18]] |
 
 { .block-language-dataview}
 

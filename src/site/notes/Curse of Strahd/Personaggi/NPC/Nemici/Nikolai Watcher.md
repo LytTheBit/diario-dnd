@@ -5,4 +5,4 @@
 Marito di [[Curse of Strahd/Personaggi/NPC/Nemici/Lady Fiona Watcher\|Lady Fiona Watcher]]. Ha una [[Curse of Strahd/Personaggi/NPC/Stella Watcher\|figlia]] e un [[Curse of Strahd/Personaggi/NPC/Alleati/Ernst Larnak\|servitore fedele]].
 Era morto ma è stato resuscitato da [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strahd]] quando sua moglie si è alleata con lui.
 
-![Nikolai Watcher.png](/img/user/Nikolai%20Watcher.png)
+![Nikolai Watcher.png](/img/user/0-Immagini%20e%20altro/Nikolai%20Watcher.png)

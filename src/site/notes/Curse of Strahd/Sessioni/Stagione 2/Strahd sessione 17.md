@@ -8,7 +8,10 @@
 
 ---
 
-Partiamo poi alla volta di 
+Partiamo poi alla volta del [[Castello Di Angyvostholt\|Castello Di Angyvostholt]], dimora del [[Ordine del drago d'argento\|Ordine del drago d'argento]]
+Dopo aver ucciso dei ragni incontriamo [[Sir Godfrey Gwilym\|Sir Godfrey Gwilym]], che ci racconta un po' la situazione. 
+In pratica sono tutti morti, e ora sono *maledetti* da questa non morte. [[Sir Godfrey Gwilym\|Sir Godfrey Gwilym]] ci spiega la situazione, e ci accorgiamo di un potente oggetto magico nelle mani di [[Vladimir Horngaard\|Vladimir Horngaard]], il loro capo.
+Otteniamo cosi una nuova missione: [[Curse of Strahd/Informazioni/Lore/Quest/The Love of Angynvostholt\|The Love of Angynvostholt]]
 
 
 ---
@@ -26,12 +29,12 @@ Vista la situazione, e visto che il giorno successivo avremmo avuto la [[Curse o
 	- [Stone of Good Luck (Luckstone)](https://dnd5e.wikidot.com/wondrous-items:luckstone)
 - **[[Curse of Strahd/Personaggi/Party/Gavriel Noctis\|Gavriel Noctis]]**
 	- [Amulet of the Devout](https://dnd5e.wikidot.com/wondrous-items:amulet-of-the-devout)
+	- [Shield +1](https://dnd5e.wikidot.com/wondrous-items:shield-1-2-3)
 - **[[Curse of Strahd/Personaggi/Party/Zi Han\|Zi Han]]**
 	- [Insignia of Claws](https://dnd5e.wikidot.com/wondrous-items:insignia-of-claws)
 	- [Spada lunga +1](https://dnd5e.wikidot.com/wondrous-items:weapon-1-2-3)
 - **[[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Kenjiro Nozomi]]**
 	- [All-Purpose Tool](https://dnd5e.wikidot.com/wondrous-items:all-purpose-tool)
-	- [Shield +1](https://dnd5e.wikidot.com/wondrous-items:shield-1-2-3)
 - **[[Curse of Strahd/Personaggi/Party/Sigfrit Von Drachenfels\|Sigfrit Von Drachenfels]]**
 	- [Amulet of the Devout](https://dnd5e.wikidot.com/wondrous-items:amulet-of-the-devout)
 	- [Shield +1](https://dnd5e.wikidot.com/wondrous-items:shield-1-2-3)
@@ -41,4 +44,4 @@ Vista la situazione, e visto che il giorno successivo avremmo avuto la [[Curse o
 Come extra [[Curse of Strahd/Personaggi/Party/Thomas Bertrand\|Il Professore]] ha fatto una pergamena di [Haste](http://dnd2024.wikidot.com/spell:haste) per [[Curse of Strahd/Personaggi/Party/Kenjiro Nozomi\|Ken]]
 Per un totale di 4000mo
 
-**Continua:** [[Strahd sessione 18\|Strahd sessione 18]]
+**Continua:** [[Curse of Strahd/Sessioni/Stagione 2/Strahd sessione 18\|Strahd sessione 18]]

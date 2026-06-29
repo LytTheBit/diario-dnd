@@ -9,4 +9,4 @@ Probabilmente appartiene a [[Curse of Strahd/Personaggi/NPC/Nemici/Strahd\|Strah
 ![Castello di Strahd.png](/img/user/0-Immagini%20e%20altro/Lorenzo/Castello%20di%20Strahd.png)
 
 ### Mappa 
-![image.png](/img/user/image.png)![image-1.png](/img/user/image-1.png)![image-2.png](/img/user/image-2.png)
+![0-Immagini e altro/image.png](/img/user/0-Immagini%20e%20altro/image.png)![0-Immagini e altro/image-1.png](/img/user/0-Immagini%20e%20altro/image-1.png)![image-2.png](/img/user/0-Immagini%20e%20altro/image-2.png)
